@@ -12,3 +12,14 @@ The footer section will contain links such as "About Us," "Contact Us," "Privacy
 The styling of this Amazon clone will be similar to the original website. It will use a combination of colors such as Amazon's signature orange, black, and white.
 
 Provided all images required for this project. Create a folder and add html, css file and images on visual studio code.
+
+This code creates a webpage layout, similar to Amazon's, with these main sections:
+
+*   **Header:**  At the top, you'll find the Amazon logo, your delivery address, a search bar, options to change the language, sign in, and your shopping cart.
+*   **Bottom Panel:** This panel has links to things like daily deals, customer service, registries, gift cards, and a way to sell your own items.
+*   **Hero Section:** This section displays a message and a link that takes you to the Amazon India website.
+*   **Shop Section:** Here, you'll see different product categories, each with a picture and a "See More" link to explore further.
+*   **Footer:**  At the very bottom, there are more links to various pages and information about Amazon.
+
+The accompanying CSS code controls how everything looks on the page – the styles for the header, search bar, bottom panel, the hero section, the shop section, and the footer.
+
